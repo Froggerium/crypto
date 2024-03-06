@@ -1,0 +1,12 @@
+meta{
+    "name": "Froggerium",
+    "symbol": "FGM",
+    "description": "Froggerium Meme Token",
+    "image": "https://raw.githubusercontent.com/Froggerium/crypto/main/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
